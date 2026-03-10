@@ -1,5 +1,5 @@
 # About Me:
-4th year student, Hanze CMGT<br> Working Part time @ Sfinx Games<br> Open to learn new things!<br> Currently focused on C++ / UE5<br> Huge graphics enthusiast!
+4th year student, Hanze CMGT<br> Open to learn new things!<br> Currently focused on C++ / UE5<br> Huge rendering enthusiast!
 
 
 ##  Socials:
